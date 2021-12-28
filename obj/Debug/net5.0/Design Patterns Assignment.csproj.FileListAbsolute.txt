@@ -1,0 +1,49 @@
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\bin\Debug\net5.0\Design Patterns Assignment.exe
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\bin\Debug\net5.0\Design Patterns Assignment.deps.json
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\bin\Debug\net5.0\Design Patterns Assignment.runtimeconfig.json
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\bin\Debug\net5.0\Design Patterns Assignment.runtimeconfig.dev.json
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\bin\Debug\net5.0\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\bin\Debug\net5.0\ref\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\bin\Debug\net5.0\Design Patterns Assignment.pdb
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.csproj.AssemblyReference.cache
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.AssemblyInfoInputs.cache
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.AssemblyInfo.cs
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.csproj.CoreCompileInputs.cache
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\ref\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.pdb
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\ConsoleApp1\obj\Debug\net5.0\Design Patterns Assignment.genruntimeconfig.cache
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\bin\Debug\net5.0\Design Patterns Assignment.exe
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\bin\Debug\net5.0\Design Patterns Assignment.deps.json
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\bin\Debug\net5.0\Design Patterns Assignment.runtimeconfig.json
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\bin\Debug\net5.0\Design Patterns Assignment.runtimeconfig.dev.json
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\bin\Debug\net5.0\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\bin\Debug\net5.0\ref\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\bin\Debug\net5.0\Design Patterns Assignment.pdb
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.csproj.AssemblyReference.cache
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.AssemblyInfoInputs.cache
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.AssemblyInfo.cs
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.csproj.CoreCompileInputs.cache
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\ref\Design Patterns Assignment.dll
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.pdb
+E:\Archive\EPN Sverige AB\.Net Dev Kurs\Code Patterns\Repo\Design Patterns\Assignment\obj\Debug\net5.0\Design Patterns Assignment.genruntimeconfig.cache
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.csproj.AssemblyReference.cache
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.AssemblyInfoInputs.cache
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.AssemblyInfo.cs
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.csproj.CoreCompileInputs.cache
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.dll
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\ref\Design Patterns Assignment.dll
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.pdb
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\Design Patterns Assignment.exe
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\Design Patterns Assignment.deps.json
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\Design Patterns Assignment.runtimeconfig.json
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\Design Patterns Assignment.runtimeconfig.dev.json
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\Design Patterns Assignment.dll
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\ref\Design Patterns Assignment.dll
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\Design Patterns Assignment.pdb
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\bin\Debug\net5.0\Autofac.dll
+C:\Users\maarr\Desktop\EC\CodePattern\1\Design Patterns - Inlämningsuppgift 1\obj\Debug\net5.0\Design Patterns Assignment.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBx64hQ4eSPOi3rxWsd/T5VMRsbvthYlaBfZwOB0dN9JNJMYXiGb5f+YbK8oWFEgqmAd+ORASqE+Zj3V8dj+Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maarr\\Desktop\\EC\\CodePattern\\1\\Design Patterns - Inlämningsuppgift 1\\Design Patterns Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maarr\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\maarr\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
